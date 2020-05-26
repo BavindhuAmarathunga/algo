@@ -1,0 +1,2 @@
+For the implementation of the Maximum flow algorithm is IntelliJ IDE is used.
+No data file is imported in the implementation, all the relevant matrices are hard coded and then passed into the residual graph 2D array.
